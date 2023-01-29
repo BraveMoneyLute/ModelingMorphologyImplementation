@@ -1,4 +1,4 @@
-# ModMo-Implementation
+# Modeling Morphology Implementation
 This repository contains the code for the computational implementation BN task for the Modeling morphology class with Dr. Ingo Plag (WiSe 2022/23). 
 
 [...More detailed description of assignment and what I did...]
@@ -12,4 +12,4 @@ The `Scripts` folder contains Jupyter notebooks.
 [...description of other scripts & other folders yet to come...]
 
 ## Author
-[**Anna Stein**](https://slam.phil.hhu.de/authors/anna/)
+[**Anh Kim**](https://slam.phil.hhu.de/authors/anh/)
