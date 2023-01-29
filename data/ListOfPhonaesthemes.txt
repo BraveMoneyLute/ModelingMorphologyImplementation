@@ -1,0 +1,45 @@
+bl- Bubble_sound (blow,), Blowing_and_Swelling(blow,), Swelling_Of_The_Lips(blubber,)
+cl- Abrupt_Onset (clatter,)
+cr-	Twistedness, Jarring_Harsh_Grating_Sound (cracks,)
+dr-	Downward_Motion, Liquid_Motion (drivel,)
+fl-	
+gl-	
+gr-	
+sc-	
+sk-	
+scr-	
+sl-	
+sm-	
+sn-	
+sp-	
+spl-	
+spr-
+squ-	
+st-	
+str-	
+sw-	
+tr-	
+tw-	
+wr-	
+-ack	
+-am	
+-amp	
+-ap	
+-ash	
+-asp	
+-awl	
+-ick	
+-inge	
+-ip	
+-irl
+-url	
+-ng	
+-nk	
+-oil	
+-olt	
+-oop	
+-ouch	
+-owl	
+-sk	
+-ump	
+-ust	
