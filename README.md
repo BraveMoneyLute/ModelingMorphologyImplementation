@@ -38,5 +38,8 @@ The weight matrix.
 ### `activation_matrix.tsv`
 The activation matrix.
 
+### `ModelingMorphology.pdf`
+The class report that contains the procedure in a little bit more detailed. It sure makes sense of the table structures and has screenshots of the dataframes.
+
 ## Author
-[**Anh Kim**](https://slam.phil.hhu.de/authors/anh/)
+[**Anh Kim Nguyen**](https://slam.phil.hhu.de/authors/anh/)
