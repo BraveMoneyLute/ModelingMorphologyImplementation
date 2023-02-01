@@ -1,5 +1,5 @@
 # Modeling Morphology Implementation
-This repository contains the code for the computational implementation BN task for the Modeling morphology class with Dr. Ingo Plag (WiSe 2022/23). 
+This repository contains the code for the computational implementation BN task for the Modeling morphology class with Prof. Ingo Plag (WiSe 2022/23). 
 
 The class assignment was to implement either an analogical model or a discriminative model. I decided to do a discriminative model that would learn the associations of a small number of phonesthemes.  
 The phonesthemes were selected from a list that was used in a previous corpus study on phonesthemes by [Otis et al (2008)](https://escholarship.org/content/qt0s67w5zj/qt0s67w5zj.pdf) and the words to create the corpus were taken from [Shisler B.K.'s Dictionary of Phonesthemes (2009)](https://www.oocities.org/soho/studios/9783/phond1.html).
